@@ -2,7 +2,10 @@ import React from 'react'
 
 function History(){
     return(
-        <div>This is history page</div>
+        <div>
+            
+            <div>This is history page</div>
+        </div>
     )
 }
 
